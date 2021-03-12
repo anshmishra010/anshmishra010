@@ -14,6 +14,6 @@
 
 
 ## Find me around the web 🌎
-- Struggling on <a href="https://www.leetcode.com/tanyarajhans/">LeetCode</a> 😍
+- Struggling on <a href="https://leetcode.com/anshmishra9415/">LeetCode</a> 😍
 - Practising on <a href="https://auth.geeksforgeeks.org/user/anshmishra9415/practice/">GeeksForGeeks</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/ansh-mishra-">LinkedIn</a> 😇
