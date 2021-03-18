@@ -17,3 +17,10 @@
 - Struggling on <a href="https://leetcode.com/anshmishra9415/">LeetCode</a> 😍
 - Practising on <a href="https://auth.geeksforgeeks.org/user/anshmishra9415/practice/">GeeksForGeeks</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/ansh-mishra-">LinkedIn</a> 😇
+
+ <br>
+ <br>
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmishra010&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmishra010&layout=compact)](https://github.com/anshmishra010/github-readme-stats)
