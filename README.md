@@ -26,3 +26,15 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshmishra010&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshmishra010&layout=compact)](https://github.com/anshmishra010/github-readme-stats)
+
+<br>
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshmishra010&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<br>
+
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=anshmishra010&theme=xcode" alt="Contribution Graph" align="center" />
